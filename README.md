@@ -6,7 +6,7 @@
 
 # Console Uygulaması
 
-<img src="projeResimleri/anaMenu.png" alt="Alt Menü"/>
+<img src="projeresimleri/anamenu.png" alt="Alt Menu"/>
 
 <br>
 
