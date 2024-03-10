@@ -4,7 +4,7 @@
 
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
 
-#Console Uygulaması
+# Console Uygulaması
 
 <img src="projeResimleri/anaMenu.png" alt="Alt Menü"/>
 
