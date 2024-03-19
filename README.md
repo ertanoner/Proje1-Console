@@ -5,10 +5,13 @@
 
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
 
-# 1. PROJE
+# 1. PROJE                   
+
+Proje Videosu   https://drive.google.com/file/d/1mqy9sr-EYWSxIpsqqgNpnn2nJt7p7tnP/view?usp=drive_link 
+
+<h1></h1>
 
 <img width="305" alt="PROJE ANA MENÜ" src="https://github.com/ertanoner/Proje1-Console/assets/161921025/bfae6b23-d2cb-4efe-93b0-ecc46b5c74e9">
-
 
 Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
