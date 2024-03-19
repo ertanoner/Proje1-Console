@@ -7,7 +7,7 @@
 
 # 1. PROJE                   
 
-Proje Videosu   https://drive.google.com/file/d/1mqy9sr-EYWSxIpsqqgNpnn2nJt7p7tnP/view?usp=drive_link 
+Proje Anlatım Videosu   https://drive.google.com/file/d/1mqy9sr-EYWSxIpsqqgNpnn2nJt7p7tnP/view?usp=drive_link 
 
 <h1></h1>
 
